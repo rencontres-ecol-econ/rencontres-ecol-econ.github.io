@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-#locale                   : "en-US"
+locale                   : "en-US"
 site_theme               : "dark"
 title                    : "Rencontres Grenobloises d'Économie Écologique - ReGEE"
 title_separator          : "-"
@@ -20,9 +20,9 @@ repository               : "albertbouffange/rencontres-ecol-econ"
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
- author:
+author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : ""
   name             : "test"
   # pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
