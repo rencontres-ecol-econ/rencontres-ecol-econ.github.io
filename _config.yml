@@ -13,7 +13,7 @@ title                    : "Rencontres Grenobloises d'Économie Écologique"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "séminaire grenoblois"
-url                      : https://albertbouffange.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://regee.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "/rencontres-ecol-econ" # the subpath of your site, e.g. "/blog"
 repository               : "albertbouffange/rencontres-ecol-econ"
 
