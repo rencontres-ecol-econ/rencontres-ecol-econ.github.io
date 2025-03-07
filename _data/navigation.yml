@@ -6,7 +6,7 @@
 
 main:
   - title: "Calendrier"
-    url: /publications/
+    url: /calendrier/
 
 #  - title: "Talks"
  #   url: /talks/    
@@ -23,5 +23,5 @@ main:
  # - title: "CV"
   #  url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+ # - title: "Guide"
+  #  url: /markdown/
