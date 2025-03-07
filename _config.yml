@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rencontres Grenobloises d'Économie Écologique"
+title                    : "Rencontres Grenobloises d'Économie Écologique - ReGEE"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "séminaire grenoblois"
