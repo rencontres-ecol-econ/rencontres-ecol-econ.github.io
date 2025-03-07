@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-# « Valuations écologiques : évaluer, commensurer, compenser, monétiser ? »
+
+
+## « Valuations écologiques : évaluer, commensurer, compenser, monétiser ? »
 
 Peu de séminaires principalement dédiés à l’économie écologique existent aujourd’hui. Partant du constat de la présence de forces vives à Grenoble et en Auvergne-Rhône-Alpes, nous souhaitons mettre en place un espace d’émulation ancré localement mais ouvert, autour des problématiques socio-écologiques, qui mobilise différents champs des sciences économiques et sociales. Ces rencontres se veulent aussi ouvertes aux personnes issues des sciences de l’ingénieur et des sciences de la nature qui souhaitent aborder la dimension socio-économique des enjeux de soutenabilité. L’objectif est créer une dynamique de groupe pérenne et conviviale, via des rencontres régulières et des formats originaux autour de l’économie écologique.
 
