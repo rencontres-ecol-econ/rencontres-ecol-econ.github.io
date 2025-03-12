@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Les Rencontres Grenobloises d’Economie Ecologique - ReGEE"
-author_profile: false
+author_profile: false 
 redirect_from: 
   - /about/
   - /about.html
