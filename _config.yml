@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "fr-FR"
-site_theme               : "dark"
+site_theme               : "default"
 title                    : "Rencontres Grenobloises d'Économie Écologique - ReGEE"
 title_separator          : "-"
 name                     : &name ""
