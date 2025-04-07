@@ -19,7 +19,11 @@ Les rencontres débuteront par une période d’essai durant les 4 premiers mois
 
 1. Dans un premier temps, un temps de réflexion sera consacré à l’exploration des **concepts** et controverses qui traversent ce champ de recherche, permettant ainsi de dégager les fondements théoriques et historiques. Ce temps sera dédié à la lecture et à la discussion approfondie d’un texte qui constituera le point de départ d’une réflexion collective.
 2. Ensuite, l’accent sera mis sur la présentation d’une **méthodologie** par un.e intervenant.e issu.e, entre autres, du champ de l’économie écologique. Il s’agira d’entrer dans le détail concret d’une méthode, de sa mise en œuvre, de ses outils ; afin d’apporter un éclairage par le terrain sur la question de la valuation et de l’économie écologique.
-3. Enfin, une troisième séance clôturera le cycle par un séminaire dans un format  de duos d’un.e jeune chercheur.se et d’un.e collègue plus établi.e, qui seront amenés à **présenter** leurs travaux s’inscrivant dans la sous-thématique traitée. 
+3. Enfin, une troisième séance clôturera le cycle par un séminaire dans un format  de duos d’un.e jeune chercheur.se et d’un.e collègue plus établi.e, qui seront amenés à **présenter** leurs travaux s’inscrivant dans la sous-thématique traitée.
+
 
 Nous invitons l’ensemble des chercheurs et acteurs intéressés à se joindre à cette initiative. **Votre présence régulière et/ou vos contributions**, qu’elles soient d’ordre théorique ou appliqué, feront la richesse des échanges. Ce projet se veut avant tout un lieu d’échange convivial, constructif, propice à l’émergence d’idées renouvelées et de potentielles collaborations.
 
+[Mohammed Kharbouche](nicolas.laurence1@univ-grenoble-alpes.fr)
+[Nicolas Laurence](mohammed.kharbouche@univ-grenoble-alpes.fr)
+[Albert Bouffange](albert.bouffange@inria.fr)
