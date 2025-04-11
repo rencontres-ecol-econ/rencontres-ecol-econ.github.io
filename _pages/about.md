@@ -29,4 +29,4 @@ Nous invitons l’ensemble des chercheurs et acteurs intéressés à se joindre 
 [Albert Bouffange](albert.bouffange@inria.fr)
 
 
-![Avec le soutien de la SOFEE](sofee.png)
+![Avec le soutien de la SOFEE](sofee.png "Avec le soutien de la SOFEE")
