@@ -27,3 +27,6 @@ Nous invitons l’ensemble des chercheurs et acteurs intéressés à se joindre 
 [Mohammed Kharbouche](nicolas.laurence1@univ-grenoble-alpes.fr)
 [Nicolas Laurence](mohammed.kharbouche@univ-grenoble-alpes.fr)
 [Albert Bouffange](albert.bouffange@inria.fr)
+
+
+![Avec le soutien de la SOFEE](../images/sofee.png "")
