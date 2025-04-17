@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*Rejoindre la [mailing-list](https://listes.education.fr/sympa/info/regee) : envoyez un message intitulé « subscribe regee [Prénom] [Nom] » à [sympa@listes.education.fr](sympa@listes.education.fr) à partir de l'adresse mail à partir de votre choix.*         
+*Rejoindre la [mailing-list](https://listes.education.fr/sympa/info/regee) : envoyez un message intitulé « subscribe regee [Prénom] [Nom] » à [sympa@listes.education.fr](mailto:sympa@listes.education.fr) à partir de l'adresse mail à partir de votre choix.*         
 
 
 ## « Valuations écologiques : évaluer, commensurer, compenser, monétiser ? »
@@ -25,8 +25,8 @@ Les rencontres débuteront par une période d’essai durant les 4 premiers mois
 
 Nous invitons l’ensemble des chercheurs et acteurs intéressés à se joindre à cette initiative. **Votre présence régulière et/ou vos contributions**, qu’elles soient d’ordre théorique ou appliqué, feront la richesse des échanges. Ce projet se veut avant tout un lieu d’échange convivial, constructif, propice à l’émergence d’idées renouvelées et de potentielles collaborations.
 
-[Nicolas Laurence](mohammed.kharbouche@univ-grenoble-alpes.fr)
-[Mohammed Kharbouche](nicolas.laurence1@univ-grenoble-alpes.fr)
-[Albert Bouffange](albert.bouffange@inria.fr)
+[Nicolas Laurence](mailto:mohammed.kharbouche@univ-grenoble-alpes.fr)
+[Mohammed Kharbouche](mailto:nicolas.laurence1@univ-grenoble-alpes.fr)
+[Albert Bouffange](mailto:albert.bouffange@inria.fr)
 
 
