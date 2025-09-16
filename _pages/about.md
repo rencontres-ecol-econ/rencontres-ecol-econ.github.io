@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*Rejoindre la [mailing-list](https://listes.education.fr/sympa/info/regee) : envoyez un message intitulé « subscribe regee [Prénom] [Nom] » à [sympa@listes.education.fr](mailto:sympa@listes.education.fr) à partir de l'adresse mail à partir de votre choix.*         
+*Rejoindre la [mailing-list](https://listes.education.fr/sympa/info/regee) : envoyez un message intitulé « subscribe regee [Prénom] [Nom] » à [sympa@listes.education.fr](mailto:sympa@listes.education.fr) à partir de l'adresse mail de votre choix.*         
 
 
 ## Première année : « Valuations écologiques : évaluer, commensurer, compenser, monétiser ? »
