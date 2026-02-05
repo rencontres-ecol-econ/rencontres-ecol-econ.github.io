@@ -24,7 +24,7 @@ Des groupes de trois séances correspondront chacun à une sous-thématisation d
 
 Nous invitons l’ensemble des chercheurs et acteurs intéressés à se joindre à cette initiative. **Votre présence régulière et/ou vos contributions**, qu’elles soient d’ordre théorique ou appliqué, feront la richesse des échanges. Ce projet se veut avant tout un lieu d’échange convivial, constructif, propice à l’émergence d’idées renouvelées et de potentielles collaborations.
 
-Ces rencontres bénéficient du soutien de la [SOFEE](https://www.helloasso.com/associations/sofee)
+Ces rencontres bénéficient du soutien de la [SOFEE](https://www.helloasso.com/associations/sofee) et de l'[AFEP](https://assoeconomiepolitique.org/).
 
 [Nicolas Laurence](mailto:nicolas.laurence1@univ-grenoble-alpes.fr)
 [Johan Milleret](mailto:johan.milleret@univ-grenoble-alpes.fr)
