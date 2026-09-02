@@ -9,12 +9,10 @@ redirect_from:
 
 *Rejoindre la [mailing-list](https://listes.education.fr/sympa/info/regee) : envoyez un message intitulé « subscribe regee [Prénom] [Nom] » à [sympa@listes.education.fr](mailto:sympa@listes.education.fr) à partir de l'adresse mail de votre choix.*         
 
-
-## Programme 2026-2027 des Rencontres Grenobloises d'Économie Écologique (ReGEE)
-
 Peu de séminaires principalement dédiés à l’économie écologique existent aujourd’hui. Partant du constat de la présence de forces vives à Grenoble, l’objectif des ReGEE est de créer une dynamique de groupe pérenne et conviviale, avec des rencontres régulières et des formats originaux. Cette année nous proposons un format court d'une heure pour s'insérer au mieux dans les emplois du temps de tout le monde. 
 
-Programme 2026-2027 :
+
+## Programme 2026-2027 
 - Jeudi 01 octobre 13h30-14h30 : salle 204 de la MaCI
 - Jeudi 03 décembre 13h30-14h30 : salle 204 de la MaCI
 - Jeudi 28 janvier 13h30-14h30 : salle de réunion 002 de la MaCI
