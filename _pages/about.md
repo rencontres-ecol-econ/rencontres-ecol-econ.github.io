@@ -19,7 +19,7 @@ Peu de séminaires principalement dédiés à l’économie écologique existent
 - Jeudi 04 mars 13h30-14h30 : salle 204 de la MaCI
 - Jeudi 13 mai 13h30-14h30 : salle 204 de la MaCI
 
-![Calendrier](/images/calendrier-REGEE.png)
+![Calendrier](/images/Calendrier-ReGEE.png)
 
 Votre présence régulière et/ou vos contributions feront la richesse des échanges. Ce séminaire se veut avant tout un lieu d’échange convivial, constructif, propice à l'interconnaissance et le partage. N'hésitez pas à venir !
 
