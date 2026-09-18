@@ -13,7 +13,7 @@ Peu de séminaires principalement dédiés à l’économie écologique existent
 
 
 ## Programme 2026-2027 
-- **Jeudi 01 octobre** 13h30-14h30 : Découverte-discussion du livre Rethinking Ecological Economics d’Arild Vatn
+- **Jeudi 01 octobre** 13h30-14h30 : Découverte-discussion du livre _Rethinking Ecological Economics_ d’Arild Vatn
   - salle 204 de la MaCI
 - **Jeudi 03 décembre** 13h30-14h30 : Terraforming Earth: When the Pursuit of Habitability Generates Its Own Decline - **Jean-Francois Ruault (LESSEM – INRAE)**
   - salle 204 de la MaCI
