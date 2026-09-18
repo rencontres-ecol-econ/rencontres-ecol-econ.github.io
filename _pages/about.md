@@ -13,11 +13,16 @@ Peu de séminaires principalement dédiés à l’économie écologique existent
 
 
 ## Programme 2026-2027 
-- Jeudi 01 octobre 13h30-14h30 : salle 204 de la MaCI
-- Jeudi 03 décembre 13h30-14h30 : salle 204 de la MaCI
-- Jeudi 28 janvier 13h30-14h30 : salle de réunion 002 de la MaCI
-- Jeudi 04 mars 13h30-14h30 : salle 204 de la MaCI
-- Jeudi 13 mai 13h30-14h30 : salle 204 de la MaCI
+- **Jeudi 01 octobre** 13h30-14h30 : Découverte-discussion du livre Rethinking Ecological Economics d’Arild Vatn
+  - salle 204 de la MaCI
+- **Jeudi 03 décembre** 13h30-14h30 : Terraforming Earth: When the Pursuit of Habitability Generates Its Own Decline - **Jean-Francois Ruault (LESSEM – INRAE)**
+  - salle 204 de la MaCI
+- **Jeudi 28 janvier** 13h30-14h30 : Réguler des pollutions éternelles ? Le principe pollueur-payeur à l'épreuve de l'(é)valuation des pollutions PFAS de l'eau - **Quentin Brun (Pacte)**
+  - salle de réunion 002 de la MaCI
+- **Jeudi 04 mars** 13h30-14h30 : Combiner Théorie de la Régulation et Économie Écologique - **Nelo Magalhães (Clerse - CNRS)**
+  - salle 204 de la MaCI
+- **Jeudi 13 mai** 13h30-14h30 : L'économie territoriale au prisme de sa matérialité : le rôle et la trajectoire des 'régions ressources' en Europe - **Gabriel Renault (Pacte)**
+  - salle 204 de la MaCI
 
 <!--  ![Calendrier](/images/Calendrier-ReGEE.png) -->
 
